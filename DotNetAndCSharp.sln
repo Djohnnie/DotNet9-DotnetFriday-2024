@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "90. C# 13 - Params Collections", "90. C# 13 - Params Collections", "{F1AF14E1-E0DA-4EF3-C597-D647650769B3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "92. C# 13 - New Escape Sequence", "92. C# 13 - New Escape Sequence", "{651B1C4A-C246-62D9-AF64-636B1FCEAFC9}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "93. C# 13 - New Escape Sequence", "93. C# 13 - New Escape Sequence", "{651B1C4A-C246-62D9-AF64-636B1FCEAFC9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "93. C# 13 - Implicit Index Access", "93. C# 13 - Implicit Index Access", "{5F9DC56D-72E8-4893-A945-DC9506097994}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "94. C# 13 - Implicit Index Access", "94. C# 13 - Implicit Index Access", "{5F9DC56D-72E8-4893-A945-DC9506097994}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "55. ASP.NET Core 9 - InternalServerError TypedResults", "55. ASP.NET Core 9 - InternalServerError TypedResults", "{58AC8490-4499-EFF5-3085-B2C9BF836E23}"
 EndProject
@@ -87,15 +87,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "25. .NET 9 Libraries - Acti
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "26. .NET 9 Libraries - Debug.Assert Reports", "26. .NET 9 Libraries - Debug.Assert Reports", "{0CD3F89D-8CB8-4306-9384-C91C9A1DC806}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "91. C# 13 - New Lock Object", "91. C# 13 - New Lock Object", "{A7931141-1F7A-47D9-9937-EFA04E47C449}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "92. C# 13 - New Lock Object", "92. C# 13 - New Lock Object", "{A7931141-1F7A-47D9-9937-EFA04E47C449}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "94. C# 13 - More Partial Members", "94. C# 13 - More Partial Members", "{D53022D7-B63F-423C-862F-99636A70A5BD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "95. C# 13 - More Partial Members", "95. C# 13 - More Partial Members", "{D53022D7-B63F-423C-862F-99636A70A5BD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "95. C# 13 - ref and unsafe in Iterators and Async methods", "95. C# 13 - ref and unsafe in Iterators and Async methods", "{F08B66C5-6B43-497D-9095-45F7C6F54511}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "96. C# 13 - ref and unsafe in Iterators and Async methods", "96. C# 13 - ref and unsafe in Iterators and Async methods", "{F08B66C5-6B43-497D-9095-45F7C6F54511}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "96. C# 13 - ref struct Interfaces", "96. C# 13 - ref struct Interfaces", "{8C26122F-2104-4D1E-8C0B-4F9BB3B86590}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "97. C# 13 - ref struct Interfaces", "97. C# 13 - ref struct Interfaces", "{8C26122F-2104-4D1E-8C0B-4F9BB3B86590}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "97. C# 13 - ref struct Type Arguments", "97. C# 13 - ref struct Type Arguments", "{1B2B0895-FC3B-4F96-8020-7DB9C0CAB294}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "98. C# 13 - ref struct Type Arguments", "98. C# 13 - ref struct Type Arguments", "{1B2B0895-FC3B-4F96-8020-7DB9C0CAB294}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13.NewLockObject", "CSharp13.NewLockObject\CSharp13.NewLockObject.csproj", "{8A5FA49F-C844-45CC-9A9F-75069442A280}"
 EndProject
@@ -148,6 +148,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet9.SearchValuesExpansion", "DotNet9.SearchValuesExpansion\DotNet9.SearchValuesExpansion.csproj", "{119BE273-1F14-4699-BCAD-76C3BA9D34E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore9.KeyedDIInMiddleware", "AspNetCore9.KeyedDIInMiddleware\AspNetCore9.KeyedDIInMiddleware.csproj", "{441D9EB2-DF1C-4F1D-B0B6-8B479BA80943}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99. C# 13 - field keyword", "99. C# 13 - field keyword", "{4CE9B0CD-589A-486A-964C-32A850D8C549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13.FieldKeyword", "CSharp13.FieldKeyword\CSharp13.FieldKeyword.csproj", "{3A8552CB-267C-418C-9824-E611FE9C8363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "91. C# 13 - Overload Resolution Priority", "91. C# 13 - Overload Resolution Priority", "{417251FB-514E-4656-9AC2-77A46B6D16C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13.OverloadResolutionPriority", "CSharp13.OverloadResolutionPriority\CSharp13.OverloadResolutionPriority.csproj", "{175D0663-E449-4D51-ADB4-8F11A7E1BC00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -299,6 +307,14 @@ Global
 		{441D9EB2-DF1C-4F1D-B0B6-8B479BA80943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{441D9EB2-DF1C-4F1D-B0B6-8B479BA80943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{441D9EB2-DF1C-4F1D-B0B6-8B479BA80943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8552CB-267C-418C-9824-E611FE9C8363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8552CB-267C-418C-9824-E611FE9C8363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8552CB-267C-418C-9824-E611FE9C8363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8552CB-267C-418C-9824-E611FE9C8363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175D0663-E449-4D51-ADB4-8F11A7E1BC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175D0663-E449-4D51-ADB4-8F11A7E1BC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175D0663-E449-4D51-ADB4-8F11A7E1BC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175D0663-E449-4D51-ADB4-8F11A7E1BC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -340,6 +356,8 @@ Global
 		{0FCEA060-967A-4BCA-B1F1-8EF75822990E} = {6848D702-DD07-4A6F-BBFE-3FDC29B7B651}
 		{119BE273-1F14-4699-BCAD-76C3BA9D34E9} = {2481827E-DEF9-48F0-900B-BCC0D9A99DF3}
 		{441D9EB2-DF1C-4F1D-B0B6-8B479BA80943} = {E27BBF83-25FA-4263-AD60-1A06F92B26E1}
+		{3A8552CB-267C-418C-9824-E611FE9C8363} = {4CE9B0CD-589A-486A-964C-32A850D8C549}
+		{175D0663-E449-4D51-ADB4-8F11A7E1BC00} = {417251FB-514E-4656-9AC2-77A46B6D16C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A579978-C04F-45D4-84AA-6AB68587DE2E}
